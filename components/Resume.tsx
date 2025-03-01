@@ -109,7 +109,7 @@ export default function Resume() {
                       <CardContent className="p-6">
                         <div className="flex justify-between items-start mb-2">
                           <h4 className="text-lg font-semibold">{edu.degree}</h4>
-                          <span className="text-sm text-muted-foreground">{edu.period}</span>
+                          
                         </div>
                         <p className="text-primary mb-2">{edu.institution}</p>
                         <p className="text-muted-foreground">{edu.description}</p>
