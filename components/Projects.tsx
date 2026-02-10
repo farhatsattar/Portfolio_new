@@ -10,7 +10,7 @@ const projects = [
   {
     title: "Modern Online Fashion Shop",
     description: "A fully functional fashion eCommerce web app with modern UI, responsive design, and seamless user experience.",
-    image: "/Proj2.PNG",
+    image: "/proj2.PNG",
     demo: "https://clothes-ecommerce-app.vercel.app/"
   },
   {
