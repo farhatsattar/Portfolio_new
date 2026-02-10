@@ -8,53 +8,53 @@ import Image from 'next/image'
 
 const projects = [
   {
-    title: "Medical Rag Application",
-    description: "A fully functional Medical Rag platform. It is a platform that connects people with the best medical experts world wide.",
-    image: "/medical.png",
-    demo: "https://medical-rag-application-1.vercel.app/"
+    title: "Modern Online Fashion Shop",
+    description: "A fully functional fashion eCommerce web app with modern UI, responsive design, and seamless user experience.",
+    image: "/Proj2.PNG",
+    demo: "https://clothes-ecommerce-app.vercel.app/"
   },
   {
-    title: "Medical ChatBot Assistant",
-    description: "A fully functional Medical ChatBot Assistant platform. It is a platform that connects people with the best medical experts world wide.",
-    image: "/1.png",
-    demo: "https://mfahadjbr-medical-chatbot-assistant-main-plrqms.streamlit.app/"
+    title: "AI-Powered English Learning Assistant",
+    description: "An AI-powered platform for English language learning with interactive lessons, speech recognition, and personalized progress tracking.",
+    image: "/proj6.PNG",
+    demo: "https://englishlearningassistant-geqm8snvc6zfurdsepx5fr.streamlit.app/"
   },
   {
-    title: "Agentia world Website",
-    description: "A fully functional Agentia world platform. It is a platform that connects people with the best travel agents world wide.",
-    image: "/project1.png",
-    demo: "https://agentia-world-website.vercel.app/"
+    title: "Premium Dental Care Web App",
+    description: "Fully functional dental care web app with modern UI, service highlights, and appointment features.",
+    image: "/proj3.PNG",
+    demo: "https://dental-app-psi.vercel.app/"
   },
   {
-    title: "Basketball Website",
-    description: "A dynamic basketball hub featuring live scores, player stats, team news, match schedules, photo galleries, and interactive fan engagement for enthusiasts.",
-    image: "/project2.png",
-    demo: "https://basketball-website-ten.vercel.app/"
+    title: "Physical AI & Humanoid Robotics Textbook Web App",
+    description: "A fully functional educational web app on Physical AI & Humanoid Robotics with structured content and interactive learning layout.Ragchatbot is for customers to ask questions about the textbook and get answers in real time.",
+    image: "/proj1.PNG",
+    demo: "https://book-5zp6.vercel.app/"
   },
   {
-    title: "AI Resume Application",
-    description: "AI-powered resume builder with intelligent suggestions, ATS optimization, and professional templates for creating personalized resumes.",
-    image: "/project3.png",
-    demo: "https://ai-resume-builder-three-iota.vercel.app/"
+    title: "AI Book Writer – Intelligent Content Generation App",
+    description: "An AI-powered book and blog writing web app that generates intelligent content based on user input, providing a seamless writing experience for authors and creatives.",
+    image: "/proj5.PNG",
+    demo: "https://project11-ssqnyrbq548ykdrdclzvjs.streamlit.app//"
   },
   {
-    title: "vprimetech Website",
-    description: "A fully functional vprimetech platform. It is a platform that connects people with the best tech experts world wide.",
-    image: "/project4.png",
-    demo: "https://vprimetech.vercel.app/"
+    title: "AI Academic Paper Generator",
+    description: "Fully functional AI academic paper generator for any board and any class using artificial intelligence.",
+    image: "/proj4.PNG",
+    demo: "https://papergenerator-qspwfeqpjmtefpjrrqd6jt.streamlit.app/"
   },
   {
-    title: "Online Grocery Store Website",
-    description: "A fully functional online grocery store platform.",
-    image: "/project5.png",
-    demo: "https://ecommerce-website-online-grocery-store-fahad.vercel.app/"
+    title: "Dental Surgery Clinic Web App",
+    description: "A fully functional dental surgery clinic web app with appointment booking, patient management, and service information.",
+    image: "/proj7.PNG",
+    demo: "https://third-nextjs-proj-t32l.vercel.app/"
   },
-  {
-    title: "AI Trip Planner Application",
-    description: "AI-powered trip planner with intelligent suggestions, ATS optimization, and professional templates.",
-    image: "/project6.png",
-    demo: "https://mfahadjbr-ai-trip-plan-website-srcproject1main-0b1pil.streamlit.app/"
-  }
+  // {
+  //   title: "AI Trip Planner Application",
+  //   description: "AI-powered trip planner with intelligent suggestions, ATS optimization, and professional templates.",
+  //   image: "/project6.png",
+  //   demo: "https://mfahadjbr-ai-trip-plan-website-srcproject1main-0b1pil.streamlit.app/"
+  // }
 ]
 
 export default function Projects() {

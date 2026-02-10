@@ -18,7 +18,7 @@ const achievements = [
   {
     icon: GraduationCap,
     title: "Bachelor Degree",
-    description: "Artificial Intelligence",
+    description: "Computer Science",
   },
 ];
 

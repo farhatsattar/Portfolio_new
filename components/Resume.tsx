@@ -28,8 +28,8 @@ const workExperience = [
 
 const education = [
   {
-    degree: "Master's in Biotechnology",
-    institution: "University of Karachi",
+    degree: "Bachelor's in Computer Science",
+    institution: "Technical University of Lahore",
     description: "I am currently pursuing a degree in Artificial Intelligence"
   },
   // {
