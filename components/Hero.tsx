@@ -90,7 +90,7 @@ export default function Hero() {
               <Image
                 width={500}
                 height={500}
-                src="/images.jpg"
+                src="/far.png"
                 alt="Profile"
                 className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
               />
