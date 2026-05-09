@@ -44,10 +44,16 @@ const projects = [
     demo: "https://papergenerator-qspwfeqpjmtefpjrrqd6jt.streamlit.app/"
   },
   {
-    title: "Dental Surgery Clinic Web App",
-    description: "A fully functional dental surgery clinic web app with appointment booking, patient management, and service information.",
-    image: "/proj7.PNG",
-    demo: "https://third-nextjs-proj-t32l.vercel.app/"
+    title: "Worldwide Visa Adviser App",
+    description: "A fully functional worldwide visa adviser app with visa information, visa requirements, and visa application process.",
+    image: "/proj8.PNG",
+    demo: "https://worldwidevisaadviser-rc2w.vercel.app/"
+  },
+  {
+    title: "Real Estate Web App",
+    description: "A fully functional real estate web app with property listing, property details, and property search.",
+    image: "/proj9.PNG",
+    demo: "https://real-state-six-zeta.vercel.app/"
   },
   // {
   //   title: "AI Trip Planner Application",
