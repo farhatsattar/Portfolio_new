@@ -55,6 +55,14 @@ const projects = [
     image: "/proj9.PNG",
     demo: "https://real-state-six-zeta.vercel.app/"
   },
+  {
+    title: "Car Showroom App",
+    description: "A modern and responsive Car Showroom website designed to showcase vehicles with detailed specifications, pricing, and an intuitive browsing experience. Built with Next.js and Tailwind CSS, focusing on performance, clean UI, and seamless user engagement.
+   ",
+    image: "/proj10.PNG",
+    demo: "https://car-showroom-alpha.vercel.app/"
+  },
+
   // {
   //   title: "AI Trip Planner Application",
   //   description: "AI-powered trip planner with intelligent suggestions, ATS optimization, and professional templates.",
