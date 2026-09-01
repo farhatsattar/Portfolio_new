@@ -57,8 +57,7 @@ const projects = [
   },
   {
     title: "Car Showroom App",
-    description: "A modern and responsive Car Showroom website designed to showcase vehicles with detailed specifications, pricing, and an intuitive browsing experience. Built with Next.js and Tailwind CSS, focusing on performance, clean UI, and seamless user engagement.
-   ",
+    description:"A modern and responsive Car Showroom website designed to showcase vehicles with detailed specifications, pricing, and an intuitive browsing experience. Built with Next.js and Tailwind CSS, focusing on performance, clean UI, and seamless user engagement.",
     image: "/proj10.PNG",
     demo: "https://car-showroom-alpha.vercel.app/"
   },
